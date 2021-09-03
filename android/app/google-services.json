@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586131017460",
+    "firebase_url": "https://cypher-vpn-version1-default-rtdb.firebaseio.com",
+    "project_id": "cypher-vpn-version1",
+    "storage_bucket": "cypher-vpn-version1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586131017460:android:4d93abfc62c741871e98a1",
+        "android_client_info": {
+          "package_name": "com.cyphervpn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586131017460-t146l33np79l1o4gfil684iv461i07ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2QJ56EUuIR9bIp4oereojnUvVZ-t1fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586131017460-t146l33np79l1o4gfil684iv461i07ch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586131017460-fbag50c7i42rmss9epkch8pt487p40t9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "CypherVPN.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
